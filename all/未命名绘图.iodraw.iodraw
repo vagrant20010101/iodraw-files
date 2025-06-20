@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mcnDVkhTMgaMXokE60k6-42" value="Input:&amp;nbsp; X" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="535" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mcnDVkhTMgaMXokE60k6-43" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="180" width="60" height="30" as="geometry" />
