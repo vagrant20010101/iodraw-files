@@ -127,18 +127,6 @@
             <mxPoint x="531.0000000000001" y="320.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcnDVkhTMgaMXokE60k6-35" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520.3933982821957" y="345.60660171780444" as="sourcePoint" />
-            <mxPoint x="541.6066017178044" y="324.3933982821957" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mcnDVkhTMgaMXokE60k6-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520.3933982821957" y="324.3933982821957" as="sourcePoint" />
-            <mxPoint x="541.6066017178044" y="345.60660171780444" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mcnDVkhTMgaMXokE60k6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mcnDVkhTMgaMXokE60k6-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="210" as="targetPoint" />
