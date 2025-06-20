@@ -143,7 +143,7 @@
             <mxPoint x="610" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mcnDVkhTMgaMXokE60k6-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="mcnDVkhTMgaMXokE60k6-38" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;·&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="595" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mcnDVkhTMgaMXokE60k6-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mcnDVkhTMgaMXokE60k6-27" target="mcnDVkhTMgaMXokE60k6-32">
