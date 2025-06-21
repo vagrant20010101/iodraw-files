@@ -225,7 +225,7 @@
             <mxRectangle width="43" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yT8WjsmFCDzF6QrUaPvc-107" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yT8WjsmFCDzF6QrUaPvc-107" value="W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
