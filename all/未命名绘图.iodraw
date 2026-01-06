@@ -221,7 +221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-2" value="Patch Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="70" y="677" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="668" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
