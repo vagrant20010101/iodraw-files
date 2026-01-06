@@ -361,7 +361,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;× L&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="856" width="30" height="30" as="geometry" />
+          <mxGeometry x="140" y="859.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transformer Block&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="508" y="580" width="185" height="46" as="geometry" />
