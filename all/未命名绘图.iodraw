@@ -399,7 +399,7 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 17px; text-wrap-mode: nowrap;&quot;&gt;Conv-ViT&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="266.25" y="573" width="171" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="&amp;nbsp;Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="305.38" y="803.5" width="81.75" height="34" as="geometry" />
         </mxCell>
       </root>
