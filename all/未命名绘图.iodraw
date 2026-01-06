@@ -369,6 +369,66 @@
             <mxPoint x="129.70999999999998" y="830.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="80" y="756.5" width="120" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-8" target="2ILcRPl5RsCfgMqN-gAT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-8" value="Patch Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="678" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="654" as="sourcePoint" />
+            <mxPoint x="140" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="622" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-12" target="2ILcRPl5RsCfgMqN-gAT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-12" value="&lt;font color=&quot;#ffffff&quot;&gt;MLP Head&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1026" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Output: Class&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1106" width="106" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vision Transformer&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="583" width="171" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="102" y="770" width="76" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.71085714285778" y="853.75" as="sourcePoint" />
+            <mxPoint x="140.08" y="908.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;× L&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="869.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-19" target="2ILcRPl5RsCfgMqN-gAT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-19" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="102" y="944.5" width="76" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="917" as="sourcePoint" />
+            <mxPoint x="139.70999999999998" y="944" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="813.5" as="sourcePoint" />
+            <mxPoint x="139.70999999999998" y="840.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
