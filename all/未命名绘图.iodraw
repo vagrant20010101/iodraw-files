@@ -400,7 +400,7 @@
           <mxGeometry x="266.25" y="573" width="171" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="816" width="76" height="43.5" as="geometry" />
+          <mxGeometry x="305.38" y="803.5" width="81.75" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
