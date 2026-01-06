@@ -369,7 +369,7 @@
             <mxPoint x="129.70999999999998" y="830.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;fontColor=#ffffff;strokeColor=#314354;opacity=80;" vertex="1" parent="1">
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;fontColor=#ffffff;strokeColor=#FFFFFF;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="746.5" width="120" height="143.5" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-8" target="2ILcRPl5RsCfgMqN-gAT-15">
@@ -399,7 +399,7 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 17px; text-wrap-mode: nowrap;&quot;&gt;Conv-ViT&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="266.25" y="573" width="171" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="308.25" y="760" width="76" height="43.5" as="geometry" />
         </mxCell>
       </root>
