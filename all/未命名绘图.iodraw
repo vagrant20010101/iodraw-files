@@ -454,7 +454,7 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;fontColor=#ffffff;strokeColor=#FFFFFF;opacity=80;" vertex="1" parent="1">
           <mxGeometry y="1018.25" width="10" height="123.5" as="geometry" />
         </mxCell>
-        <UserObject label="%name% Text" placeholders="1" name="Variable" id="2ILcRPl5RsCfgMqN-gAT-78">
+        <UserObject label="&lt;font color=&quot;#ffffff&quot;&gt;Stage&lt;/font&gt;" placeholders="1" name="Variable" id="2ILcRPl5RsCfgMqN-gAT-78">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="-215" y="1030" width="80" height="20" as="geometry" />
           </mxCell>
