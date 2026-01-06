@@ -218,22 +218,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-2" value="Patch Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="75.5" y="682" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="677" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135.5" y="656" as="sourcePoint" />
-            <mxPoint x="135.5" y="681" as="targetPoint" />
+            <mxPoint x="130" y="651" as="sourcePoint" />
+            <mxPoint x="130" y="676" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="105.5" y="626" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="621" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvCxRXSPPHK8BPtWiXRD-6" target="HvCxRXSPPHK8BPtWiXRD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-6" value="Transformer Encoder" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="75.5" y="782" width="120" height="100" as="geometry" />
+          <mxGeometry x="70" y="777" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,10 +245,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-9" value="&lt;font color=&quot;#ffffff&quot;&gt;MLP Head&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="75.5" y="907" width="120" height="45" as="geometry" />
+          <mxGeometry x="70" y="902" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Output: Class&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="82.5" y="987" width="106" height="25" as="geometry" />
+          <mxGeometry x="77" y="982" width="106" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="675" width="140" height="332" as="geometry" />
