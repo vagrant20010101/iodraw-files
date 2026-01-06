@@ -372,9 +372,6 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0E3E6;fontColor=#ffffff;strokeColor=#FFFFFF;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="746.5" width="120" height="123.5" as="geometry" />
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-8" target="2ILcRPl5RsCfgMqN-gAT-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-8" value="Patch Embedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="286.25" y="668" width="120" height="60" as="geometry" />
         </mxCell>
@@ -400,10 +397,10 @@
           <mxGeometry x="266.25" y="573" width="171" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="&amp;nbsp;Block&lt;font style=&quot;font-size: 12px;&quot;&gt;×N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="309.38" y="790" width="73.75" height="34" as="geometry" />
+          <mxGeometry x="309.38" y="791.25" width="73.75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-22" value="downsample" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="309.38" y="750" width="73.75" height="28.25" as="geometry" />
+          <mxGeometry x="311.25" y="750" width="73.75" height="28.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
