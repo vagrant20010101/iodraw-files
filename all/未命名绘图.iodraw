@@ -402,7 +402,7 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-15" value="&amp;nbsp;Block&lt;font style=&quot;font-size: 12px;&quot;&gt;×N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="309.38" y="791.25" width="73.75" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-22" value="downsample" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;downsample&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="309.38" y="750" width="73.75" height="28.25" as="geometry" />
         </mxCell>
       </root>
