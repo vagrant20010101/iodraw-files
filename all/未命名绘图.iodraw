@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HvCxRXSPPHK8BPtWiXRD-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;opacity=80;" parent="1" vertex="1">
+          <mxGeometry x="70" y="751.5" width="120" height="246" as="geometry" />
+        </mxCell>
         <mxCell id="ijGbV33XsAeh98KfTpUl-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7d8c9b;fontColor=#ffffff;strokeColor=#FFFFFF;opacity=80;" parent="1" vertex="1">
           <mxGeometry x="266.25" y="162" width="140" height="332" as="geometry" />
         </mxCell>
@@ -244,9 +247,6 @@
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Output: Class&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="77" y="1110" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="HvCxRXSPPHK8BPtWiXRD-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="70" y="751.5" width="120" height="246" as="geometry" />
-        </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Embedded Patches&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="636" width="140" height="30" as="geometry" />
         </mxCell>
@@ -362,6 +362,9 @@
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-43" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transformer Block&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="508" y="580" width="185" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-1" target="HvCxRXSPPHK8BPtWiXRD-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-1" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="92" y="934.5" width="76" height="43.5" as="geometry" />
