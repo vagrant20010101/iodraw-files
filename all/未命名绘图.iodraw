@@ -232,12 +232,6 @@
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="612" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HvCxRXSPPHK8BPtWiXRD-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241.5" y="1037" as="sourcePoint" />
-            <mxPoint x="241.5" y="607" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HvCxRXSPPHK8BPtWiXRD-9" target="HvCxRXSPPHK8BPtWiXRD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -251,7 +245,7 @@
           <mxGeometry x="291.5" y="636" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Vision Transformer&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="580" width="171" height="46" as="geometry" />
+          <mxGeometry x="50" y="573" width="171" height="46" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transformer Encoder&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="269" y="580" width="185" height="46" as="geometry" />
