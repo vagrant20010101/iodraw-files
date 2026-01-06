@@ -349,7 +349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-35" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
-          <mxGeometry x="-66" y="696.5" width="110" height="57" as="geometry" />
+          <mxGeometry x="-66" y="696.5" width="76" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="HvCxRXSPPHK8BPtWiXRD-37" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="-66" y="913.5" width="110" height="57" as="geometry" />
