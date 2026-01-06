@@ -408,11 +408,10 @@
             <mxPoint x="346.33000000000004" y="898.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ILcRPl5RsCfgMqN-gAT-19" target="2ILcRPl5RsCfgMqN-gAT-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-19" value="Transformer Block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="934.5" width="76" height="43.5" as="geometry" />
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2ILcRPl5RsCfgMqN-gAT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346.25" y="978" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
