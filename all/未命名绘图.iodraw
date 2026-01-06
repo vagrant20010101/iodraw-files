@@ -408,14 +408,14 @@
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-210" y="899.8" as="sourcePoint" />
-            <mxPoint x="-190" y="899.8" as="targetPoint" />
+            <mxPoint x="-209" y="899.8" as="sourcePoint" />
+            <mxPoint x="-189" y="899.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200" y="909.8" as="sourcePoint" />
-            <mxPoint x="-180" y="909.8" as="targetPoint" />
+            <mxPoint x="-110" y="899.8" as="sourcePoint" />
+            <mxPoint x="-90" y="899.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
