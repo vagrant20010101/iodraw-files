@@ -394,8 +394,8 @@
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Output: Class&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="148" y="1067.5" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="2ILcRPl5RsCfgMqN-gAT-58" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;down sample&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="1058.75" width="40" height="42.5" as="geometry" />
+        <mxCell id="2ILcRPl5RsCfgMqN-gAT-58" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;down sample&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1058.75" width="30" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="2ILcRPl5RsCfgMqN-gAT-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
